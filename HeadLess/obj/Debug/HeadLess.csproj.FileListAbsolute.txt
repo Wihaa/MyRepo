@@ -1,0 +1,6 @@
+c:\users\gabor.kincses\documents\visual studio 2015\Projects\HeadLess\HeadLess\bin\Debug\HeadLess.exe.config
+c:\users\gabor.kincses\documents\visual studio 2015\Projects\HeadLess\HeadLess\bin\Debug\HeadLess.exe
+c:\users\gabor.kincses\documents\visual studio 2015\Projects\HeadLess\HeadLess\bin\Debug\HeadLess.pdb
+c:\users\gabor.kincses\documents\visual studio 2015\Projects\HeadLess\HeadLess\obj\Debug\HeadLess.csprojResolveAssemblyReference.cache
+c:\users\gabor.kincses\documents\visual studio 2015\Projects\HeadLess\HeadLess\obj\Debug\HeadLess.exe
+c:\users\gabor.kincses\documents\visual studio 2015\Projects\HeadLess\HeadLess\obj\Debug\HeadLess.pdb
