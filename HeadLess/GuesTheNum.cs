@@ -10,7 +10,7 @@ namespace HeadLess
     {
         public string PlayTheGame(int betweenThis, int andThis) {
 
-            bool isTheGuessWasOk;
+            bool isTheGuessWasOk = false;
             int numnerOfGuesses = 1;
             int theGuessWhatYouGave;
             string endOfTheGame = "";
